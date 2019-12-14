@@ -1,0 +1,8 @@
+Projrct pertama saya akan membuat sebuah apliaksi perpustakaan sekolah dasar berbasis website dengan menggunakan framework codeingniter
+terdapat berbagai fitur yg pertama
+1. Login & Registrasi
+2. USer Access Level
+3. Menu Management
+4. User Management
+5. User Activation
+6. Forgot Password/Lupa Password
