@@ -6,4 +6,4 @@ terdapat berbagai fitur yg pertama
 4. User Management
 5. User Activation
 6. Forgot Password/Lupa Password
-7. Menggunakan Database untuk penyimpanan data siswa
+7. Menambahkan Database untuk penyimpanan data siswa
